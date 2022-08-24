@@ -53,7 +53,6 @@ Replace `http://127.0.0.1:8000/example` with your link.
     ...
 </template>
 <script>
-// If you are using PurgeCSS, make sure to whitelist the carousel CSS classes
 import Pagination from 'vue3-laravel-easy-pagination';
 
 export default {

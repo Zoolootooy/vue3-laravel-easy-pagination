@@ -1,6 +1,6 @@
 {
   "name": "vue3-laravel-easy-pagination",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "dist/vue3laravel-easy-pagination.ssr.js",
   "browser": "dist/vue3laravel-easy-pagination.esm.js",
